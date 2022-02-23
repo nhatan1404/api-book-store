@@ -1,0 +1,16 @@
+export enum ResourceValue {
+  AUTHOR = 'author',
+  BOOK = 'book',
+  CART = 'cart',
+  CATEGORY = 'category',
+  COUPON = 'coupon',
+  LANGUAGE = 'language',
+  ORDER = 'order',
+  PERMISSION = 'permission',
+  PUBLISHER = 'publisher',
+  REVIEW = 'review',
+  ROLE = 'role',
+  SHIPPING = 'shipping',
+  USER = 'user',
+  ADDRESS = 'address',
+}
